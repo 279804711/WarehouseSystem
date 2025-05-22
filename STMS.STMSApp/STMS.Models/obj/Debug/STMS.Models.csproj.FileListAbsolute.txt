@@ -1,0 +1,9 @@
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.Models\bin\Debug\STMS.Models.dll
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.Models\bin\Debug\STMS.Models.pdb
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.Models\obj\Debug\STMS.Models.csproj.AssemblyReference.cache
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.Models\obj\Debug\STMS.Models.csproj.CoreCompileInputs.cache
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.Models\obj\Debug\STMS.Models.dll
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.Models\obj\Debug\STMS.Models.pdb
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.Models\bin\Debug\Common.dll
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.Models\bin\Debug\Common.pdb
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.Models\obj\Debug\STMS.Mod.549E9BD5.Up2Date

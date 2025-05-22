@@ -1,0 +1,16 @@
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.STMSApp\bin\Debug\STMS.STMSApp.exe.config
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.STMSApp\bin\Debug\STMS.STMSApp.exe
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.STMSApp\bin\Debug\STMS.STMSApp.pdb
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.STMSApp\obj\Debug\STMS.STMSApp.csproj.AssemblyReference.cache
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.STMSApp\obj\Debug\STMS.STMSApp.Properties.Resources.resources
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.STMSApp\obj\Debug\STMS.STMSApp.csproj.GenerateResource.cache
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.STMSApp\obj\Debug\STMS.STMSApp.csproj.CoreCompileInputs.cache
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.STMSApp\obj\Debug\STMS.STMSApp.exe
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.STMSApp\obj\Debug\STMS.STMSApp.pdb
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.STMSApp\bin\Debug\Common.dll
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.STMSApp\bin\Debug\STMS.BLL.dll
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.STMSApp\bin\Debug\STMS.Models.dll
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.STMSApp\bin\Debug\Common.pdb
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.STMSApp\bin\Debug\STMS.BLL.pdb
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.STMSApp\bin\Debug\STMS.Models.pdb
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.STMSApp\obj\Debug\STMS.STM.F7BA6A67.Up2Date

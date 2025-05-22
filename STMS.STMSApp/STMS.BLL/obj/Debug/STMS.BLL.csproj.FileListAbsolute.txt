@@ -1,0 +1,15 @@
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.BLL\bin\Debug\STMS.BLL.dll
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.BLL\bin\Debug\STMS.BLL.pdb
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.BLL\bin\Debug\Common.dll
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.BLL\bin\Debug\Communicate.dll
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.BLL\bin\Debug\STMS.DAL.dll
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.BLL\bin\Debug\STMS.Models.dll
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.BLL\bin\Debug\Common.pdb
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.BLL\bin\Debug\Communicate.pdb
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.BLL\bin\Debug\STMS.DAL.pdb
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.BLL\bin\Debug\STMS.Models.pdb
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.BLL\obj\Debug\STMS.BLL.csproj.AssemblyReference.cache
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.BLL\obj\Debug\STMS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.BLL\obj\Debug\STMS.BLL.csproj.Up2Date
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.BLL\obj\Debug\STMS.BLL.dll
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.BLL\obj\Debug\STMS.BLL.pdb

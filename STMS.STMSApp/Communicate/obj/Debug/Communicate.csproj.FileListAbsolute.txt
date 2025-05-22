@@ -1,0 +1,6 @@
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\Communicate\bin\Debug\Communicate.dll
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\Communicate\bin\Debug\Communicate.pdb
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\Communicate\obj\Debug\Communicate.csproj.AssemblyReference.cache
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\Communicate\obj\Debug\Communicate.csproj.CoreCompileInputs.cache
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\Communicate\obj\Debug\Communicate.dll
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\Communicate\obj\Debug\Communicate.pdb

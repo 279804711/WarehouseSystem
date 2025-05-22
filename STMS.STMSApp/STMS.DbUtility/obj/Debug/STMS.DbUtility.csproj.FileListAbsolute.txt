@@ -1,0 +1,6 @@
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.DbUtility\bin\Debug\STMS.DbUtility.dll
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.DbUtility\bin\Debug\STMS.DbUtility.pdb
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.DbUtility\obj\Debug\STMS.DbUtility.csproj.AssemblyReference.cache
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.DbUtility\obj\Debug\STMS.DbUtility.csproj.CoreCompileInputs.cache
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.DbUtility\obj\Debug\STMS.DbUtility.dll
+C:\Users\27980\Desktop\Projects\WarehouseSystem\STMS.STMSApp\STMS.DbUtility\obj\Debug\STMS.DbUtility.pdb
