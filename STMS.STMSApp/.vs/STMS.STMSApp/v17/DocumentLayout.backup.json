@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{599F12AF-FC51-4366-9D96-E7F579C8BE24}|STMS.Models\\STMS.Models.csproj|c:\\users\\27980\\desktop\\projects\\warehousesystem\\stms.stmsapp\\stms.models\\dmodels\\productstoreinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{599F12AF-FC51-4366-9D96-E7F579C8BE24}|STMS.Models\\STMS.Models.csproj|solutionrelative:stms.models\\dmodels\\productstoreinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33CA2542-E9E8-40A7-A2B9-FF22D57785C4}|Common\\Common.csproj|c:\\users\\27980\\desktop\\projects\\warehousesystem\\stms.stmsapp\\common\\attributehepler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CA2542-E9E8-40A7-A2B9-FF22D57785C4}|Common\\Common.csproj|solutionrelative:common\\attributehepler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{599F12AF-FC51-4366-9D96-E7F579C8BE24}|STMS.Models\\STMS.Models.csproj|c:\\users\\27980\\desktop\\projects\\warehousesystem\\stms.stmsapp\\stms.models\\dmodels\\productinstorerecordinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{599F12AF-FC51-4366-9D96-E7F579C8BE24}|STMS.Models\\STMS.Models.csproj|solutionrelative:stms.models\\dmodels\\productinstorerecordinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{599F12AF-FC51-4366-9D96-E7F579C8BE24}|STMS.Models\\STMS.Models.csproj|c:\\users\\27980\\desktop\\projects\\warehousesystem\\stms.stmsapp\\stms.models\\dmodels\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599F12AF-FC51-4366-9D96-E7F579C8BE24}|STMS.Models\\STMS.Models.csproj|solutionrelative:stms.models\\dmodels\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{599F12AF-FC51-4366-9D96-E7F579C8BE24}|STMS.Models\\STMS.Models.csproj|c:\\users\\27980\\desktop\\projects\\warehousesystem\\stms.stmsapp\\stms.models\\dmodels\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{599F12AF-FC51-4366-9D96-E7F579C8BE24}|STMS.Models\\STMS.Models.csproj|solutionrelative:stms.models\\dmodels\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33CA2542-E9E8-40A7-A2B9-FF22D57785C4}|Common\\Common.csproj|c:\\users\\27980\\desktop\\projects\\warehousesystem\\stms.stmsapp\\common\\customattributes\\primarykeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CA2542-E9E8-40A7-A2B9-FF22D57785C4}|Common\\Common.csproj|solutionrelative:common\\customattributes\\primarykeyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CA2542-E9E8-40A7-A2B9-FF22D57785C4}|Common\\Common.csproj|c:\\users\\27980\\desktop\\projects\\warehousesystem\\stms.stmsapp\\common\\customattributes\\tableattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CA2542-E9E8-40A7-A2B9-FF22D57785C4}|Common\\Common.csproj|solutionrelative:common\\customattributes\\tableattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CA2542-E9E8-40A7-A2B9-FF22D57785C4}|Common\\Common.csproj|c:\\users\\27980\\desktop\\projects\\warehousesystem\\stms.stmsapp\\common\\customattributes\\columnattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CA2542-E9E8-40A7-A2B9-FF22D57785C4}|Common\\Common.csproj|solutionrelative:common\\customattributes\\columnattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{599F12AF-FC51-4366-9D96-E7F579C8BE24}|STMS.Models\\STMS.Models.csproj|c:\\users\\27980\\desktop\\projects\\warehousesystem\\stms.stmsapp\\stms.models\\dmodels\\storeregioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +31,16 @@
       "RelativeMoniker": "D:0:0:{599F12AF-FC51-4366-9D96-E7F579C8BE24}|STMS.Models\\STMS.Models.csproj|solutionrelative:stms.models\\dmodels\\storeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{599F12AF-FC51-4366-9D96-E7F579C8BE24}|STMS.Models\\STMS.Models.csproj|c:\\users\\27980\\desktop\\projects\\warehousesystem\\stms.stmsapp\\stms.models\\dmodels\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{599F12AF-FC51-4366-9D96-E7F579C8BE24}|STMS.Models\\STMS.Models.csproj|solutionrelative:stms.models\\dmodels\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{599F12AF-FC51-4366-9D96-E7F579C8BE24}|STMS.Models\\STMS.Models.csproj|c:\\users\\27980\\desktop\\projects\\warehousesystem\\stms.stmsapp\\stms.models\\dmodels\\productstoreinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599F12AF-FC51-4366-9D96-E7F579C8BE24}|STMS.Models\\STMS.Models.csproj|solutionrelative:stms.models\\dmodels\\productstoreinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33CA2542-E9E8-40A7-A2B9-FF22D57785C4}|Common\\Common.csproj|c:\\users\\27980\\desktop\\projects\\warehousesystem\\stms.stmsapp\\common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33CA2542-E9E8-40A7-A2B9-FF22D57785C4}|Common\\Common.csproj|solutionrelative:common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{599F12AF-FC51-4366-9D96-E7F579C8BE24}|STMS.Models\\STMS.Models.csproj|c:\\users\\27980\\desktop\\projects\\warehousesystem\\stms.stmsapp\\stms.models\\dmodels\\productinstorerecordinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599F12AF-FC51-4366-9D96-E7F579C8BE24}|STMS.Models\\STMS.Models.csproj|solutionrelative:stms.models\\dmodels\\productinstorerecordinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{599F12AF-FC51-4366-9D96-E7F579C8BE24}|STMS.Models\\STMS.Models.csproj|c:\\users\\27980\\desktop\\projects\\warehousesystem\\stms.stmsapp\\stms.models\\dmodels\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599F12AF-FC51-4366-9D96-E7F579C8BE24}|STMS.Models\\STMS.Models.csproj|solutionrelative:stms.models\\dmodels\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6804CC6-8447-4C8F-8DA3-13D8E9A4CA0B}|Communicate\\Communicate.csproj|c:\\users\\27980\\desktop\\projects\\warehousesystem\\stms.stmsapp\\communicate\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,102 +70,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductInStoreRecordInfo.cs",
-              "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\ProductInStoreRecordInfo.cs",
-              "RelativeDocumentMoniker": "STMS.Models\\DModels\\ProductInStoreRecordInfo.cs",
-              "ToolTip": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\ProductInStoreRecordInfo.cs",
-              "RelativeToolTip": "STMS.Models\\DModels\\ProductInStoreRecordInfo.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AttributeHepler.cs",
+              "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\Common\\AttributeHepler.cs",
+              "RelativeDocumentMoniker": "Common\\AttributeHepler.cs",
+              "ToolTip": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\Common\\AttributeHepler.cs",
+              "RelativeToolTip": "Common\\AttributeHepler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwB8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T13:46:22.517Z",
+              "WhenOpened": "2025-05-20T15:14:40.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "PrimaryKeyAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\Common\\CustomAttributes\\PrimaryKeyAttribute.cs",
+              "RelativeDocumentMoniker": "Common\\CustomAttributes\\PrimaryKeyAttribute.cs",
+              "ToolTip": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\Common\\CustomAttributes\\PrimaryKeyAttribute.cs",
+              "RelativeToolTip": "Common\\CustomAttributes\\PrimaryKeyAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:16:50.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TableAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\Common\\CustomAttributes\\TableAttribute.cs",
+              "RelativeDocumentMoniker": "Common\\CustomAttributes\\TableAttribute.cs",
+              "ToolTip": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\Common\\CustomAttributes\\TableAttribute.cs",
+              "RelativeToolTip": "Common\\CustomAttributes\\TableAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:06:34.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColumnAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\Common\\CustomAttributes\\ColumnAttribute.cs",
+              "RelativeDocumentMoniker": "Common\\CustomAttributes\\ColumnAttribute.cs",
+              "ToolTip": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\Common\\CustomAttributes\\ColumnAttribute.cs",
+              "RelativeToolTip": "Common\\CustomAttributes\\ColumnAttribute.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvw4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:05:33.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ProductStoreInfo.cs",
               "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\ProductStoreInfo.cs",
               "RelativeDocumentMoniker": "STMS.Models\\DModels\\ProductStoreInfo.cs",
               "ToolTip": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\ProductStoreInfo.cs",
               "RelativeToolTip": "STMS.Models\\DModels\\ProductStoreInfo.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T13:42:56.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductInfo.cs",
-              "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\ProductInfo.cs",
-              "RelativeDocumentMoniker": "STMS.Models\\DModels\\ProductInfo.cs",
-              "ToolTip": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\ProductInfo.cs",
-              "RelativeToolTip": "STMS.Models\\DModels\\ProductInfo.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T13:39:17.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StoreRegionInfo.cs",
-              "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\StoreRegionInfo.cs",
-              "RelativeDocumentMoniker": "STMS.Models\\DModels\\StoreRegionInfo.cs",
-              "ToolTip": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\StoreRegionInfo.cs",
-              "RelativeToolTip": "STMS.Models\\DModels\\StoreRegionInfo.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAQAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T13:34:39.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StoreInfo.cs",
-              "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\StoreInfo.cs",
-              "RelativeDocumentMoniker": "STMS.Models\\DModels\\StoreInfo.cs",
-              "ToolTip": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\StoreInfo.cs",
-              "RelativeToolTip": "STMS.Models\\DModels\\StoreInfo.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T13:27:17.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "UserInfo.cs",
               "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\UserInfo.cs",
               "RelativeDocumentMoniker": "STMS.Models\\DModels\\UserInfo.cs",
               "ToolTip": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\UserInfo.cs",
               "RelativeToolTip": "STMS.Models\\DModels\\UserInfo.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T13:23:21.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\Common\\Class1.cs",
-              "RelativeDocumentMoniker": "Common\\Class1.cs",
-              "ToolTip": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\Common\\Class1.cs",
-              "RelativeToolTip": "Common\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "ProductInStoreRecordInfo.cs",
+              "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\ProductInStoreRecordInfo.cs",
+              "RelativeDocumentMoniker": "STMS.Models\\DModels\\ProductInStoreRecordInfo.cs",
+              "ToolTip": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\ProductInStoreRecordInfo.cs",
+              "RelativeToolTip": "STMS.Models\\DModels\\ProductInStoreRecordInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T13:09:02.823Z",
+              "WhenOpened": "2025-05-20T13:46:22.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
+              "Title": "ProductInfo.cs",
+              "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\ProductInfo.cs",
+              "RelativeDocumentMoniker": "STMS.Models\\DModels\\ProductInfo.cs",
+              "ToolTip": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\ProductInfo.cs",
+              "RelativeToolTip": "STMS.Models\\DModels\\ProductInfo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:39:17.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoreRegionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\StoreRegionInfo.cs",
+              "RelativeDocumentMoniker": "STMS.Models\\DModels\\StoreRegionInfo.cs",
+              "ToolTip": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\StoreRegionInfo.cs",
+              "RelativeToolTip": "STMS.Models\\DModels\\StoreRegionInfo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:34:39.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StoreInfo.cs",
+              "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\StoreInfo.cs",
+              "RelativeDocumentMoniker": "STMS.Models\\DModels\\StoreInfo.cs",
+              "ToolTip": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.Models\\DModels\\StoreInfo.cs",
+              "RelativeToolTip": "STMS.Models\\DModels\\StoreInfo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:27:17.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\Communicate\\Class1.cs",
               "RelativeDocumentMoniker": "Communicate\\Class1.cs",
@@ -166,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.BLL\\Class1.cs",
               "RelativeDocumentMoniker": "STMS.BLL\\Class1.cs",
@@ -179,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.DAL\\Class1.cs",
               "RelativeDocumentMoniker": "STMS.DAL\\Class1.cs",
@@ -192,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.DbUtility\\Class1.cs",
               "RelativeDocumentMoniker": "STMS.DbUtility\\Class1.cs",
@@ -205,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Form1.cs [\u8BBE\u8BA1]",
               "DocumentMoniker": "C:\\Users\\27980\\Desktop\\Projects\\WarehouseSystem\\STMS.STMSApp\\STMS.STMSApp\\Form1.cs",
               "RelativeDocumentMoniker": "STMS.STMSApp\\Form1.cs",
